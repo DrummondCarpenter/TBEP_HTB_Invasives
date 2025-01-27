@@ -1,2 +1,2 @@
-# TBEP_HTB_Invasives
-This repository downloads, processes, analyzes, and produces output for Tampa Bay invasive species. This project was developed as part of the Tampa Bay Estuary Program's Hack the Bay event.
+# TBEP Invasive Species Prioritization Management Framework
+This repository downloads, processes, analyzes, and produces output for Tampa Bay invasive species. This project was developed as part of the Tampa Bay Estuary Program's Hack the Bay event. The scripts in this repository downloads data via the USGS Nonindigenous Aquatic Species API and integrates FWC habitat scores to develop two output products to aid with prioritization of invasive species management. This includes a (1) Report Card for each segment of Tampa Bay based on the spatial density of invasive adundance and invasive richness and (2) an interactive hexagonal grid based analysis to prioritze areas of Tampa Bay with a high ecological value (FWC) and invasive species abundance/richness
