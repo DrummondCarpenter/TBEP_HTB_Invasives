@@ -6,8 +6,24 @@ from shapely.geometry import Point
 # Updated HUC8 list
 huc8_list = ["03100202", "03100203", "03100204", "03100205", "03100206", "03100207"]
 
+# Paths to shapefiles
+aoi_path = "AOI/tb_aoi_1mi_4326.shp"
+waterbody_path = "AOI/tb_wb_1mi_4326.shp"
+
 # Base API URL
 base_url = "https://nas.er.usgs.gov/api/v2/occurrence/search"
+
+# Mapping for group name changes
+group_name_changes = {
+    "Amphibians-Frogs": "Amphibians",
+    "Crustaceans-Crabs": "Crustaceans",
+    "Marine Fishes": "Fishes",
+    "Mollusks-Bivalves": "Mollusks",
+    "Mollusks-Gastropods": "Mollusks",
+    "Reptiles-Lizards": "Reptiles",
+    "Reptiles-Snakes": "Reptiles",
+    "Reptiles-Turtles": "Reptiles",
+}
 
 def fetch_invasive_species_data(huc8_list):
     """
@@ -41,15 +57,64 @@ def clean_and_format_dates(df):
     df['date'] = df.apply(lambda row: f"{int(row['year'])}-{row['month']:02d}-{row['day']:02d}", axis=1)
     return df
 
+def rename_groups(df, group_name_changes):
+    """
+    Renames the group field based on a mapping of old to new names.
+    """
+    df['group'] = df['group'].replace(group_name_changes)
+    return df
+
+def clip_to_aoi(gdf, aoi_path):
+    """
+    Clips the GeoDataFrame to the extent of an area-of-interest (AOI) shapefile.
+    """
+    # Load the AOI shapefile
+    aoi = gpd.read_file(aoi_path)
+    
+    # Ensure both datasets have the same CRS
+    gdf = gdf.to_crs(aoi.crs)
+    
+    # Clip the GeoDataFrame to the AOI
+    clipped_gdf = gpd.clip(gdf, aoi)
+    return clipped_gdf
+
+def filter_by_year(gdf, min_year=2000):
+    """
+    Filters the GeoDataFrame to include only observations since the specified year.
+    """
+    gdf = gdf[gdf['year'] >= min_year]
+    return gdf
+
+def add_waterbody_name(gdf, waterbody_path):
+    """
+    Adds a waterbody name to each feature based on the waterbody shapefile.
+    """
+    # Load the waterbody shapefile
+    waterbodies = gpd.read_file(waterbody_path)
+    
+    # Ensure both datasets have the same CRS
+    gdf = gdf.to_crs(waterbodies.crs)
+    
+    # Perform spatial join to assign waterbody names
+    gdf = gpd.sjoin(gdf, waterbodies[['geometry', 'WATERBODYN']], how="left", predicate="intersects")
+    
+    # Rename the waterbody name column
+    gdf.rename(columns={'WATERBODYN': 'waterbody'}, inplace=True)
+    
+    return gdf
+
 def json_to_geojson_and_csv(data):
     """
-    Converts JSON data to a GeoDataFrame and outputs GeoJSON and CSV.
+    Converts JSON data to a GeoDataFrame, clips it to the AOI, filters, adds waterbody names, and outputs GeoJSON and CSV.
     """
     # Create a DataFrame from the results
     df = pd.DataFrame(data)
     
     # Clean and format the date field
     df = clean_and_format_dates(df)
+    
+    # Rename groups
+    df = rename_groups(df, group_name_changes)
     
     # Create GeoDataFrame using latitude and longitude
     gdf = gpd.GeoDataFrame(
@@ -58,21 +123,30 @@ def json_to_geojson_and_csv(data):
         crs="EPSG:4326"
     )
     
+    # Clip the GeoDataFrame to the AOI
+    gdf = clip_to_aoi(gdf, aoi_path)
+    
+    # Filter observations since the year 2000
+    gdf = filter_by_year(gdf, min_year=2000)
+    
+    # Add waterbody name
+    gdf = add_waterbody_name(gdf, waterbody_path)
+    
     # Select and rename columns for the GeoJSON and CSV output
     columns_to_include = [
         'speciesID', 'group', 'family', 'genus', 'species', 'scientificName', 'commonName',
-        'decimalLatitude', 'decimalLongitude', 'date', 
-        'status', 'recordType', 'freshMarineIntro', 'geometry'
+        'decimalLatitude', 'decimalLongitude', 'date', 'status', 'recordType', 'freshMarineIntro',
+        'waterbody', 'geometry'
     ]
     gdf = gdf[columns_to_include]
     
     # Save GeoJSON
-    geojson_file = "invasive_species.geojson"
+    geojson_file = "Invasives/invasive_species.geojson"
     gdf.to_file(geojson_file, driver="GeoJSON")
     print(f"GeoJSON saved to {geojson_file}")
     
     # Save CSV (drop the geometry column)
-    csv_file = "invasive_species.csv"
+    csv_file = "Invasives/invasive_species.csv"
     gdf.drop(columns=['geometry']).to_csv(csv_file, index=False)
     print(f"CSV saved to {csv_file}")
 
