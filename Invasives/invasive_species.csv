@@ -1,0 +1,623 @@
+speciesID,group,family,genus,species,scientificName,commonName,decimalLatitude,decimalLongitude,date,status,recordType,freshMarineIntro,waterbody
+2954,Plants,Onagraceae,Ludwigia,peruviana,Ludwigia peruviana,Peruvian primrose-willow,27.49892,-82.48531,2020-02-15,established,Literature,Freshwater,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.50251,-82.48858,2022-12-26,,Literature,,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.51199,-82.46577,2019-06-10,established,Literature,Freshwater,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.7188,-82.484484,2001-12-12,established,Personal communication,Marine,MTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.71716,-82.4569,2022-08-19,,Literature,,MTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.71724,-82.45695,2022-11-05,,Literature,,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.72751,-82.47421,2018-10-16,established,Literature,Freshwater,MTB
+1037,Mollusks,Thiaridae,Melanoides,tuberculata,Melanoides tuberculata,red-rim melania,27.73659,-82.46557,2019-02-19,,Literature,,MTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.7424,-82.4816,2001-12-12,established,Personal communication,Marine,MTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.7468,-82.475,2000-05-17,established,Personal communication,Marine,MTB
+868,Fishes,Poeciliidae,Xiphophorus,sp.,Xiphophorus sp.,platyfish,27.7423,-82.4347,2023-05-04,established,Specimen,Freshwater,MTB
+843,Fishes,Poeciliidae,Belonesox,belizanus,Belonesox belizanus,Pike Killifish,27.76576,-82.45193,2024-11-05,,Literature,,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2011-04-26,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-04-03,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-05-26,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-05-26,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-11-03,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-11-03,unknown,Specimen,Freshwater,MTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.78,-82.42,2012-03-08,unknown,Specimen,Freshwater,MTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.785783,-82.42733,2000-06-08,established,Specimen,Marine,MTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.90251,-82.43535,2006-09-26,established,Personal communication,Marine,HB
+843,Fishes,Poeciliidae,Belonesox,belizanus,Belonesox belizanus,Pike Killifish,27.909789,-82.419691,2017-11-08,established,Personal communication,Freshwater,HB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.92616,-82.45632,2016-10-31,unknown,Specimen,Freshwater,HB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.93295,-82.4298,2003-04-01,established,Personal communication,Marine,HB
+872,Fishes,Poeciliidae,Xiphophorus,maculatus,Xiphophorus maculatus,Southern Platyfish,27.74345,-82.48718,2019-02-19,,Literature,,MTB
+2954,Plants,Onagraceae,Ludwigia,peruviana,Ludwigia peruviana,Peruvian primrose-willow,27.86721,-82.49907,2020-06-08,established,Literature,Freshwater,HB
+2954,Plants,Onagraceae,Ludwigia,peruviana,Ludwigia peruviana,Peruvian primrose-willow,27.86736,-82.49951,2018-10-10,established,Literature,Freshwater,HB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.86906,-82.48913,2018-10-04,established,Literature,Freshwater,HB
+48,Amphibians,Bufonidae,Rhinella,marina,Rhinella marina,Cane Toad,27.87185,-82.48747,2018-10-07,established,Literature,Freshwater,HB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.88748,-82.49191,2016-03-12,established,Literature,Freshwater,HB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.8875,-82.49195,2016-04-30,established,Literature,Freshwater,HB
+486,Fishes,Clariidae,Clarias,batrachus,Clarias batrachus,Walking Catfish,27.84455,-82.48309,2013-06-01,established,NAS sighting report,Freshwater,HB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.88036,-82.48192,2011-09-17,established,NAS sighting report,Marine,HB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.94752,-82.45843,2014-09-19,established,Literature,Freshwater,HB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.9475216,-82.458427,2004-07-11,established,Literature,Freshwater,HB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.93584,-82.45039,2018-07-26,established,Literature,Freshwater,HB
+48,Amphibians,Bufonidae,Rhinella,marina,Rhinella marina,Cane Toad,27.93644,-82.45019,2018-07-26,established,Literature,Freshwater,HB
+48,Amphibians,Bufonidae,Rhinella,marina,Rhinella marina,Cane Toad,27.93715,-82.45099,2019-07-12,established,Literature,Freshwater,HB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.93779,-82.45504,2022-05-16,,Literature,,HB
+2266,Fishes,Channidae,Channa,aurolineata,Channa aurolineata,Goldline Snakehead,27.95057,-82.45718,2022-06-09,,Literature,,HB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.95058,-82.45718,2018-10-15,,Literature,,HB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.95058,-82.45718,2016-09-23,,Literature,,HB
+437,Fishes,Cichlidae,Cichla,ocellaris,Cichla ocellaris,Butterfly Peacock Bass,27.95058,-82.45718,2017-07-07,,Literature,,HB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.95058,-82.45718,2020-05-21,,Literature,,HB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.7565,-82.41116,2019-06-14,established,Literature,Freshwater,MTB
+843,Fishes,Poeciliidae,Belonesox,belizanus,Belonesox belizanus,Pike Killifish,27.77308,-82.40759,2017-07-02,,Literature,,MTB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.78612,-82.40332,2019-03-12,established,Literature,Freshwater,HB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.79111,-82.38391,2015-05-09,established,Literature,Freshwater,HB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.79254,-82.40324,2022-12-16,,Literature,,HB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.79277,-82.40315,2022-12-16,,Literature,,HB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.79327,-82.40259,2021-12-29,,Literature,,HB
+974,Fishes,Synbranchidae,Monopterus,albus,Monopterus albus,Asian Swamp Eel,27.83753,-82.39676,2008-05-04,established,Literature,Freshwater,HB
+863,Fishes,Poeciliidae,Poecilia,reticulata,Poecilia reticulata,Guppy,27.8536365,-82.3825,2005-05-26,collected,Personal communication,Freshwater,HB
+843,Fishes,Poeciliidae,Belonesox,belizanus,Belonesox belizanus,Pike Killifish,27.85566,-82.38483,2017-03-08,established,NAS sighting report,Brackish-Freshwater,HB
+843,Fishes,Poeciliidae,Belonesox,belizanus,Belonesox belizanus,Pike Killifish,27.85619,-82.38954,2019-12-08,,Literature,,HB
+635,Fishes,Cyprinidae,Puntigrus,tetrazona,Puntigrus tetrazona,tiger barb,27.85702,-82.38043,2003-01-09,failed,Specimen,Freshwater,HB
+2740,Fishes,Synbranchidae,Monopterus,sp.,Monopterus sp.,jowled swamp eels,27.85884,-82.38656,2019-12-08,established,Literature,Freshwater,HB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.859718,-82.385445,2000-08-02,established,Personal communication,Marine,HB
+457,Fishes,Cichlidae,Hemichromis,letourneuxi,Hemichromis letourneuxi,African Jewelfish,27.86829,-82.38594,2015-01-17,established,Literature,Freshwater-Brackish,HB
+457,Fishes,Cichlidae,Hemichromis,letourneuxi,Hemichromis letourneuxi,African Jewelfish,27.86901,-82.38612,2017-02-20,established,Personal communication,Marine,HB
+457,Fishes,Cichlidae,Hemichromis,letourneuxi,Hemichromis letourneuxi,African Jewelfish,27.87682,-82.38992,2007-06-14,established,Literature,Freshwater,HB
+457,Fishes,Cichlidae,Hemichromis,letourneuxi,Hemichromis letourneuxi,African Jewelfish,27.87765,-82.39051,2009-08-22,established,Literature,Freshwater,HB
+457,Fishes,Cichlidae,Hemichromis,letourneuxi,Hemichromis letourneuxi,African Jewelfish,27.87807,-82.39035,2014-08-30,established,Literature,Freshwater-Brackish,HB
+457,Fishes,Cichlidae,Hemichromis,letourneuxi,Hemichromis letourneuxi,African Jewelfish,27.87815,-82.39041,2014-08-30,,Literature,,HB
+457,Fishes,Cichlidae,Hemichromis,letourneuxi,Hemichromis letourneuxi,African Jewelfish,27.87822,-82.39047,2014-09-02,,Literature,,HB
+767,Fishes,Loricariidae,Pterygoplichthys,disjunctivus,Pterygoplichthys disjunctivus,Vermiculated Sailfin Catfish,27.8853,-82.4022,2015-08-25,established,NAS sighting report,Brackish-Freshwater,HB
+843,Fishes,Poeciliidae,Belonesox,belizanus,Belonesox belizanus,Pike Killifish,27.88806,-82.39697,2016-02-21,established,NAS sighting report,Brackish-Freshwater,HB
+843,Fishes,Poeciliidae,Belonesox,belizanus,Belonesox belizanus,Pike Killifish,27.88806,-82.39697,2016-08-10,established,NAS sighting report,Brackish-Freshwater,HB
+843,Fishes,Poeciliidae,Belonesox,belizanus,Belonesox belizanus,Pike Killifish,27.88806,-82.39697,2016-08-24,established,NAS sighting report,Brackish-Freshwater,HB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.92285,-82.39833,2023-02-08,,Literature,,HB
+869,Fishes,Poeciliidae,Xiphophorus,hellerii,Xiphophorus hellerii,Green Swordtail,27.93524,-82.40717,2024-08-18,,Literature,,HB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.94316,-82.4018,2015-07-13,established,Literature,Freshwater,HB
+296,Plants,Pteridaceae,Ceratopteris,thalictroides,Ceratopteris thalictroides,watersprite,27.94847,-82.41081,2022-10-05,,Literature,,HB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.5143,-82.64171,2019-02-19,established,Literature,Freshwater,LTB
+1261,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Red-eared Slider,27.52163,-82.64453,2022-07-19,,Literature,,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.5268,-82.6417,2000-07-25,established,Personal communication,Marine,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.5306,-82.6507,2000-07-25,established,Personal communication,Marine,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.5342,-82.62675,2021-03-28,,Literature,,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.5637,-82.6466,2000-06-17,established,Personal communication,Marine,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.59114,-82.64008,2022-02-02,,Literature,,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.5953,-82.6344,2001-12-12,established,Personal communication,Marine,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.608105,-82.6474,2000-07-12,established,Personal communication,Marine,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.5176,-82.6189,2000-07-25,established,Personal communication,Marine,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.545111,-82.623711,2000-08-15,established,Personal communication,Marine,LTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,27.67329,-82.62393,2005-05-07,,Literature,,LTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.77024,-82.62221,2006-02-19,,Literature,,MTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.7732,-82.6218,2001-09-17,established,Personal communication,Marine,MTB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.79156,-82.61296,2018-05-06,established,Literature,Freshwater,MTB
+963,Fishes,Scorpaenidae,Pterois,volitans/miles,Pterois volitans/miles,lionfish,27.65099,-82.6704,2014-10-10,established,Literature,Marine,LTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.71318,-82.65236,2020-08-13,,Literature,,LTB
+2552,Reptiles,Pythonidae,Python,bivittatus,Python bivittatus,Burmese Python,27.71589,-82.66476,2012-03-18,,Literature,,LTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.72744,-82.6529,2020-12-06,,Literature,,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.72924,-82.65121,2020-09-22,,Literature,,MTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.72942,-82.65086,2020-04-19,,Literature,,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.72954,-82.65123,2020-11-08,,Literature,,MTB
+1047,Mollusks,Viviparidae,Viviparus,georgianus,Viviparus georgianus,banded mysterysnail,27.733,-82.6556,2000-02-23,,Specimen,Freshwater,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.71275,-82.63755,2019-05-20,,Literature,,MTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.71752,-82.64283,2022-07-09,,Literature,,MTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.71842,-82.63845,2022-07-10,,Literature,,MTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,27.71855,-82.63829,2022-07-10,,Literature,,MTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.71857,-82.63818,2022-07-10,,Literature,,MTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.7222,-82.6268,2000-02-21,established,Personal communication,Marine,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.72445,-82.6499,2020-11-27,,Literature,,MTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,27.72445,-82.6499,2017-03-02,,Literature,,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.72581,-82.64923,2022-10-08,,Literature,,MTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.72595,-82.64939,2022-04-20,,Literature,,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.72614,-82.6486,2022-10-08,,Literature,,MTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.72618,-82.64918,2022-04-20,,Literature,,MTB
+2954,Plants,Onagraceae,Ludwigia,peruviana,Ludwigia peruviana,Peruvian primrose-willow,27.72643,-82.64875,2020-01-23,established,Literature,Freshwater,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.72725,-82.65045,2022-09-15,,Literature,,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.72736,-82.65068,2021-12-26,,Literature,,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.72755,-82.65046,2020-11-04,,Literature,,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.72755,-82.65057,2022-03-16,,Literature,,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.72767,-82.6506,2020-09-22,,Literature,,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.72896,-82.65058,2020-12-15,,Literature,,MTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,27.72933,-82.65071,2015-04-14,,Literature,,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.72938,-82.65037,2018-10-17,,Literature,,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.72951,-82.65077,2020-07-17,,Literature,,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.72958,-82.65025,2022-08-20,,Literature,,MTB
+486,Fishes,Clariidae,Clarias,batrachus,Clarias batrachus,Walking Catfish,27.73175,-82.64837,2023-05-04,established,Specimen,Freshwater,MTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.73175,-82.64837,2023-05-04,established,Specimen,Freshwater,MTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.73175,-82.64837,2023-05-04,established,Specimen,Freshwater,MTB
+767,Fishes,Loricariidae,Pterygoplichthys,disjunctivus,Pterygoplichthys disjunctivus,Vermiculated Sailfin Catfish,27.7319,-82.64908,2000-03-01,,Literature,,MTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,27.7319,-82.64908,2000-03-01,,Literature,,MTB
+441,Fishes,Cichlidae,Cichlasoma,bimaculatum,Cichlasoma bimaculatum,Black Acara,27.7319,-82.64908,2000-03-01,,Literature,,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2015-05-27,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2014-06-25,established,Literature,Freshwater,MTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.73678,-82.6534,2016-06-01,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2004-05-24,established,Literature,Freshwater,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.73678,-82.6534,2015-05-27,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2008-10-09,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2015-05-27,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2012-07-31,established,Literature,Freshwater,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.73678,-82.6534,2002-05-13,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2011-11-03,established,Literature,Freshwater,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.73678,-82.6534,2011-11-03,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2007-11-14,established,Literature,Freshwater,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.73678,-82.6534,2009-10-13,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2010-10-28,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2010-10-28,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2009-10-13,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2005-05-18,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2017-06-09,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2009-10-13,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2016-06-01,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2007-11-14,established,Literature,Freshwater,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.73678,-82.6534,2012-07-31,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2002-05-13,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2011-11-03,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2013-06-13,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2014-06-25,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2013-06-13,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2007-11-14,established,Literature,Freshwater,MTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.53419,-82.73262,2020-02-20,,Literature,,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.553634,-82.743874,2000-07-15,established,Specimen,Marine,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.5592,-82.7268,2000-06-17,established,Personal communication,Marine,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.573,-82.7635,2000-07-17,established,Personal communication,Marine,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.5911,-82.7658,2000-05-22,collected,Specimen,Freshwater,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.5917,-82.7628,2000-11-02,collected,Specimen,Freshwater,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.5917,-82.7628,2001-05-22,collected,Specimen,Freshwater,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.614874,-82.737951,2000-07-15,established,Personal communication,Marine,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.615558,-82.724819,2000-07-15,established,Personal communication,Marine,LTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.62664,-82.73136,2019-03-31,,Literature,,LTB
+1089,Mammals,Myocastoridae,Myocastor,coypus,Myocastor coypus,nutria,27.63587,-82.74049,2013-12-24,unknown,Literature,,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.6782,-82.7414,2000-07-26,established,Personal communication,Marine,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.68446,-82.72466,2019-04-05,established,Literature,Freshwater,LTB
+1086,Reptiles,Varanidae,Varanus,salvator,Varanus salvator,Common Water Monitor,27.68451,-82.72776,2023-04-13,unknown,Literature,,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.71694,-82.73476,2022-04-04,established,NAS sighting report,Freshwater,LTB
+963,Fishes,Scorpaenidae,Pterois,volitans/miles,Pterois volitans/miles,lionfish,27.73557,-82.75286,2015-04-09,established,NAS sighting report,Marine,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.7374,-82.7551,2000-07-26,established,Personal communication,Marine,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.74436,-82.73468,2017-08-23,established,Literature,Freshwater,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.75503,-82.7376,2019-04-22,,Literature,,LTB
+2552,Reptiles,Pythonidae,Python,bivittatus,Python bivittatus,Burmese Python,27.76274,-82.73773,2020-07-06,,Literature,,LTB
+963,Fishes,Scorpaenidae,Pterois,volitans/miles,Pterois volitans/miles,lionfish,27.7681,-82.7706,2006-10-10,established,Literature,Marine,LTB
+963,Fishes,Scorpaenidae,Pterois,volitans/miles,Pterois volitans/miles,lionfish,27.7681,-82.7706,2014-01-08,established,Personal communication,Marine,LTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.77912,-82.73057,2020-08-16,,Literature,,LTB
+482,Fishes,Cichlidae,Tilapia,mariae,Tilapia mariae,Spotted Tilapia,27.79663,-82.7481,2024-02-17,,Literature,,LTB
+482,Fishes,Cichlidae,Tilapia,mariae,Tilapia mariae,Spotted Tilapia,27.79809,-82.7479,2024-03-03,,Literature,,LTB
+482,Fishes,Cichlidae,Tilapia,mariae,Tilapia mariae,Spotted Tilapia,27.79809,-82.7479,2024-03-03,,Literature,,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.7767,-82.77733,2019-01-18,established,Literature,Freshwater,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.7829,-82.7829,2000-07-26,established,Personal communication,Marine,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.80696,-82.78529,2022-08-01,,Literature,,LTB
+443,Fishes,Cichlidae,Herichthys,cyanoguttatus,Herichthys cyanoguttatus,Rio Grande Cichlid,27.83447,-82.80922,2021-03-23,,Literature,,LTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,27.8347,-82.80909,2023-02-06,,Literature,,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.83848,-82.80245,2019-07-06,,Literature,,LTB
+249,Plants,Nymphaeaceae,Nymphaea,lotus,Nymphaea lotus,white Egyptian lotus,27.83894,-82.81007,2017-10-14,,Literature,,LTB
+1261,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Red-eared Slider,27.84149,-82.81549,2014-08-30,unknown,Specimen,Freshwater,LTB
+1261,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Red-eared Slider,27.84149,-82.81549,2014-08-30,unknown,Specimen,Freshwater,LTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.63263,-82.71894,2014-11-14,established,Literature,Freshwater,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.63339,-82.72204,2014-10-11,established,Literature,Freshwater,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.646545,-82.717588,2000-07-06,established,Specimen,Marine,LTB
+1261,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Red-eared Slider,27.74235,-82.71278,2019-03-06,established,Literature,Freshwater,LTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.74236,-82.71282,2023-06-18,,Literature,,LTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.74252,-82.71301,2019-03-03,established,Literature,Freshwater,LTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,27.74259,-82.71293,2017-02-17,,Literature,,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.74317,-82.71291,2023-06-18,,Literature,,LTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.74318,-82.71322,2023-06-18,,Literature,,LTB
+1262,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Yellow-bellied Slider,27.75151,-82.71831,2018-04-05,established,Literature,Freshwater,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.5497,-82.7057,2000-06-17,established,Personal communication,Marine,LTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.71,-82.69,2007-04-26,unknown,Specimen,Freshwater,LTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.71,-82.69,2007-04-26,unknown,Specimen,Freshwater,LTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.71078,-82.68794,2022-08-14,,Literature,,LTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.71329,-82.68911,2019-11-22,,Literature,,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.71398,-82.68787,2023-11-09,,Literature,,LTB
+1261,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Red-eared Slider,27.71424,-82.68872,2012-04-21,established,Literature,Freshwater,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.71473,-82.68647,2023-03-26,,Literature,,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.71473,-82.68647,2022-12-06,,Literature,,LTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.71473,-82.68647,2022-12-13,,Literature,,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.71473,-82.68647,2023-03-26,,Literature,,LTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.71475,-82.68684,2024-01-12,,Literature,,LTB
+486,Fishes,Clariidae,Clarias,batrachus,Clarias batrachus,Walking Catfish,27.71485,-82.67623,2016-07-29,,Literature,,LTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.71752,-82.6888,2024-02-06,,Literature,,LTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.71761,-82.68849,2024-02-12,,Literature,,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.71984,-82.68973,2019-08-19,,Literature,,LTB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.72719,-82.68908,2017-11-12,established,Literature,Freshwater,LTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73683,-82.69021,2020-04-30,,Literature,,LTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.73685,-82.6908,2021-04-14,,Literature,,LTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.74711,-82.68785,2018-01-21,,Literature,,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.7648,-82.72031,2022-07-09,,Literature,,LTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2006-10-11,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2001-05-15,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2010-10-28,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2009-10-13,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2017-06-09,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2003-05-09,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2008-10-09,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2000-05-09,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2016-06-01,established,Literature,Freshwater,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.73678,-82.6534,2014-06-25,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2011-11-03,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73678,-82.6534,2005-05-18,established,Literature,Freshwater,MTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.73678,-82.6534,2017-06-09,established,Literature,Freshwater,MTB
+234,Plants,Convolvulaceae,Ipomoea,aquatica,Ipomoea aquatica,water spinach,27.73678,-82.6534,2000-05-09,unknown,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2002-05-13,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2017-06-09,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2006-10-11,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2005-05-18,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2014-06-25,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2004-05-24,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73678,-82.6534,2015-05-27,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2004-05-24,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73678,-82.6534,2012-07-31,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2006-10-11,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73678,-82.6534,2004-05-24,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2005-05-18,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73678,-82.6534,2014-06-25,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2000-05-09,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73678,-82.6534,2016-06-01,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73678,-82.6534,2017-06-09,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73678,-82.6534,2008-10-09,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73678,-82.6534,2009-10-13,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2012-07-31,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73678,-82.6534,2003-05-09,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73678,-82.6534,2007-11-14,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73678,-82.6534,2013-06-13,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2013-06-13,established,Literature,Freshwater,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.73678,-82.6534,2008-10-09,established,Literature,Freshwater,MTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.73678,-82.6534,2014-06-25,established,Literature,Freshwater,MTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.73678,-82.6534,2012-07-31,established,Literature,Freshwater,MTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.73678,-82.6534,2013-06-13,established,Literature,Freshwater,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.73678,-82.6534,2007-11-14,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2003-05-09,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2008-10-09,established,Literature,Freshwater,MTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.73678,-82.6534,2003-05-09,established,Literature,Freshwater,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.73678,-82.6534,2013-06-13,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73678,-82.6534,2006-10-11,established,Literature,Freshwater,MTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.73678,-82.6534,2012-07-31,established,Literature,Freshwater,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.73678,-82.6534,2010-10-28,established,Literature,Freshwater,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.73678,-82.6534,2016-06-01,established,Literature,Freshwater,MTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.73678,-82.6534,2015-05-27,established,Literature,Freshwater,MTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.73678,-82.6534,2017-06-09,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2015-05-27,established,Literature,Freshwater,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73678,-82.6534,2016-06-01,established,Literature,Freshwater,MTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.73735,-82.65322,2007-05-29,established,Literature,Freshwater,MTB
+3270,Fishes,Cichlidae,Cichlasoma,dimerus,Cichlasoma dimerus,Chanchita,27.7378063,-82.652876,2000-03-01,established,Personal communication,Freshwater,MTB
+767,Fishes,Loricariidae,Pterygoplichthys,disjunctivus,Pterygoplichthys disjunctivus,Vermiculated Sailfin Catfish,27.7378063,-82.652876,2000-03-01,established,Personal communication,Freshwater,MTB
+762,Fishes,Loricariidae,Hypostomus,sp.,Hypostomus sp.,suckermouth catfish,27.7378063,-82.652876,2000-03-01,collected,Personal communication,Freshwater,MTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,27.7378063,-82.652876,2000-03-01,established,Personal communication,Freshwater,MTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.73781,-82.65288,2009-10-07,established,Literature,Freshwater,MTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,27.73781,-82.65288,2009-10-07,established,Literature,Freshwater,MTB
+468,Fishes,Cichlidae,Oreochromis,niloticus,Oreochromis niloticus,Nile Tilapia,27.73781,-82.65288,2011-11-30,established,Literature,Freshwater,MTB
+767,Fishes,Loricariidae,Pterygoplichthys,disjunctivus,Pterygoplichthys disjunctivus,Vermiculated Sailfin Catfish,27.73781,-82.65288,2013-11-14,established,Literature,Freshwater,MTB
+768,Fishes,Loricariidae,Pterygoplichthys,multiradiatus,Pterygoplichthys multiradiatus,Orinoco Sailfin Catfish,27.73781,-82.65288,2009-10-07,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.73272,-82.64695,2018-10-15,,Literature,,MTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.734842,-82.63707,2006-02-06,established,NAS sighting report,Marine,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73574,-82.64745,2022-10-29,,Literature,,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73574,-82.64745,2022-10-29,,Literature,,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.73586,-82.64695,2022-10-29,,Literature,,MTB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.74325,-82.64897,2017-09-23,established,Literature,Freshwater,MTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,27.74472,-82.64772,2000-02-23,established,Specimen,Freshwater,MTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,27.74472,-82.64772,2000-02-23,established,Specimen,Freshwater,MTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.74472,-82.64772,2000-02-23,established,Specimen,Freshwater,MTB
+2552,Reptiles,Pythonidae,Python,bivittatus,Python bivittatus,Burmese Python,27.75183,-82.62673,2017-06-12,,Literature,,MTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.76104,-82.64278,2024-04-01,,Literature,,MTB
+486,Fishes,Clariidae,Clarias,batrachus,Clarias batrachus,Walking Catfish,27.76221,-82.63533,2004-07-20,established,Specimen,Marine,MTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.76317,-82.63666,2023-05-23,,Literature,,MTB
+2954,Plants,Onagraceae,Ludwigia,peruviana,Ludwigia peruviana,Peruvian primrose-willow,27.76344,-82.63645,2019-01-09,,Literature,,MTB
+768,Fishes,Loricariidae,Pterygoplichthys,multiradiatus,Pterygoplichthys multiradiatus,Orinoco Sailfin Catfish,27.73781,-82.65288,2012-10-05,established,Literature,Freshwater,MTB
+486,Fishes,Clariidae,Clarias,batrachus,Clarias batrachus,Walking Catfish,27.73781,-82.65288,2009-10-07,established,Literature,Freshwater,MTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.76713,-82.63845,2024-11-09,,Literature,,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.7676,-82.64029,2020-12-31,,Literature,,MTB
+3162,Fishes,Chaenopsidae,Protemblemaria,punctata,Protemblemaria punctata,Warthead Blenny,27.77323,-82.63043,2023-03-12,,Literature,Marine,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.77915,-82.63291,2019-01-10,established,Literature,Freshwater,MTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.78577,-82.64258,2022-08-01,,Literature,,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.7859,-82.6427,2007-03-10,unknown,Literature,Freshwater,MTB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.78615,-82.63711,2017-12-03,established,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.7866,-82.6413,2007-03-10,unknown,Literature,Freshwater,MTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.78705,-82.64072,2020-12-04,,Literature,,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.7878,-82.6421,2007-03-10,unknown,Literature,Freshwater,MTB
+793,Fishes,Notopteridae,Chitala,ornata,Chitala ornata,Clown Knifefish,27.78806,-82.64139,2010-01-18,failed,Personal communication,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.7881,-82.6417,2007-03-14,unknown,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.7881,-82.6417,2007-03-14,unknown,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.7881,-82.6417,2007-03-14,unknown,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.7881,-82.6417,2007-03-14,unknown,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.7881,-82.6417,2007-03-14,unknown,Literature,Freshwater,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.7882,-82.6403,2007-03-10,unknown,Literature,Freshwater,MTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,27.78884,-82.64034,2020-07-28,,Literature,,MTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.78939,-82.64127,2023-03-16,,Literature,,MTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.79005,-82.64204,2018-11-26,,Literature,,MTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.7903,-82.6416,2007-03-10,unknown,Literature,Freshwater,MTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.7904,-82.64152,2020-06-10,,Literature,,MTB
+457,Fishes,Cichlidae,Hemichromis,letourneuxi,Hemichromis letourneuxi,African Jewelfish,27.79053,-82.64137,2013-06-05,unknown,Literature,Freshwater,MTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.79058,-82.64145,2019-11-13,,Literature,,MTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.79062,-82.64139,2023-10-08,,Literature,,MTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.79064,-82.6414,2022-08-01,,Literature,,MTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.79137,-82.64113,2019-03-28,,Literature,,MTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.79138,-82.63449,2018-10-19,,Literature,,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.79368,-82.63307,2017-01-17,unknown,Specimen,Freshwater,MTB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.79429,-82.63324,2018-03-03,established,Literature,Freshwater,MTB
+1261,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Red-eared Slider,27.79569,-82.63174,2017-09-04,established,Literature,Freshwater,MTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,27.79737,-82.63033,2005-05-07,,Literature,,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.80704,-82.62943,2019-04-10,established,Literature,Freshwater,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.81099,-82.63297,2015-03-03,established,Literature,Freshwater,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.81201,-82.62587,2021-06-18,,Literature,,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.81261,-82.6348,2019-12-01,,Literature,,MTB
+2552,Reptiles,Pythonidae,Python,bivittatus,Python bivittatus,Burmese Python,27.80006,-82.61868,2013-05-27,unknown,Specimen,Freshwater,MTB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.80153,-82.62457,2017-09-04,established,Literature,Freshwater,MTB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.81545,-82.61836,2018-11-04,established,Literature,Freshwater,MTB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.81689,-82.61768,2018-09-23,established,Literature,Freshwater,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.82299,-82.6252,2018-09-21,established,Literature,Freshwater,MTB
+1261,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Red-eared Slider,27.82302,-82.62521,2018-10-04,established,Literature,Freshwater,MTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.82478,-82.61116,2023-06-11,,Literature,,MTB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.83345,-82.61115,2018-09-27,established,Literature,Freshwater,MTB
+3162,Fishes,Chaenopsidae,Protemblemaria,punctata,Protemblemaria punctata,Warthead Blenny,27.85181,-82.62371,2022-01-18,established,Literature,Marine,OTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.8188,-82.62935,2018-05-15,,Literature,,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.82013,-82.63052,2018-09-14,established,Literature,Freshwater,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.82035,-82.63125,2017-09-21,established,Literature,Freshwater,MTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.83438,-82.62628,2024-10-23,,Literature,,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.84684,-82.62867,2018-09-07,established,Literature,Freshwater,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.88121,-82.65254,2015-07-13,established,Literature,Freshwater,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.86086,-82.63912,2022-11-02,,Literature,,OTB
+514,Fishes,Cyprinidae,Ctenopharyngodon,idella,Ctenopharyngodon idella,Grass Carp,27.87222,-82.64305,2023-11-17,,Literature,,OTB
+443,Fishes,Cichlidae,Herichthys,cyanoguttatus,Herichthys cyanoguttatus,Rio Grande Cichlid,27.87476,-82.64615,2022-05-04,,Literature,,OTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.87513,-82.64096,2020-02-12,,Literature,,OTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.87639,-82.64096,2023-02-17,,Literature,,OTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.87654,-82.64128,2023-03-21,,Literature,,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.87691,-82.62868,2018-02-23,established,Literature,Freshwater,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.87779,-82.6342,2020-11-01,,Literature,,OTB
+514,Fishes,Cyprinidae,Ctenopharyngodon,idella,Ctenopharyngodon idella,Grass Carp,27.8779,-82.63682,2020-08-15,,Literature,,OTB
+443,Fishes,Cichlidae,Herichthys,cyanoguttatus,Herichthys cyanoguttatus,Rio Grande Cichlid,27.4916,-82.5229,2017-07-03,,Literature,,LTB
+443,Fishes,Cichlidae,Herichthys,cyanoguttatus,Herichthys cyanoguttatus,Rio Grande Cichlid,27.51457,-82.55398,2017-07-03,,Literature,,LTB
+1037,Mollusks,Thiaridae,Melanoides,tuberculata,Melanoides tuberculata,red-rim melania,27.5273,-82.51324,2022-07-27,,Literature,,LTB
+869,Fishes,Poeciliidae,Xiphophorus,hellerii,Xiphophorus hellerii,Green Swordtail,27.66062,-82.50201,2023-05-05,established,Specimen,Freshwater,MTB
+443,Fishes,Cichlidae,Herichthys,cyanoguttatus,Herichthys cyanoguttatus,Rio Grande Cichlid,27.48428,-82.58004,2024-07-06,,Literature,,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.48442,-82.58074,2024-07-06,,Literature,,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.48442,-82.58075,2024-07-06,,Literature,,LTB
+448,Fishes,Cichlidae,Rocio,octofasciata,Rocio octofasciata,Jack Dempsey,27.4933,-82.57941,2007-07-19,unknown,Literature,Freshwater,LTB
+3270,Fishes,Cichlidae,Cichlasoma,dimerus,Cichlasoma dimerus,Chanchita,27.4933,-82.57941,2008-08-05,unknown,Literature,Freshwater,LTB
+448,Fishes,Cichlidae,Rocio,octofasciata,Rocio octofasciata,Jack Dempsey,27.49339,-82.57936,2022-05-09,,Literature,,LTB
+443,Fishes,Cichlidae,Herichthys,cyanoguttatus,Herichthys cyanoguttatus,Rio Grande Cichlid,27.49551,-82.578,2022-05-09,,Literature,,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.5029,-82.5716,2000-07-25,established,Personal communication,Marine,LTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.5143,-82.5627,2014-06-04,unknown,Literature,Freshwater,LTB
+486,Fishes,Clariidae,Clarias,batrachus,Clarias batrachus,Walking Catfish,27.52658,-82.57412,2020-05-15,,Literature,,LTB
+443,Fishes,Cichlidae,Herichthys,cyanoguttatus,Herichthys cyanoguttatus,Rio Grande Cichlid,27.55399,-82.57831,2017-07-03,,Literature,,LTB
+338,Fishes,Callichthyidae,Hoplosternum,littorale,Hoplosternum littorale,Brown Hoplo,27.52353,-82.59711,2024-08-18,,Literature,,LTB
+3162,Fishes,Chaenopsidae,Protemblemaria,punctata,Protemblemaria punctata,Warthead Blenny,27.60481,-82.59264,2021-01-26,unknown,Personal communication,Marine,LTB
+3162,Fishes,Chaenopsidae,Protemblemaria,punctata,Protemblemaria punctata,Warthead Blenny,27.60481,-82.59264,2021-01-26,unknown,Personal communication,Marine,LTB
+3162,Fishes,Chaenopsidae,Protemblemaria,punctata,Protemblemaria punctata,Warthead Blenny,27.60664,-82.59208,2021-01-26,unknown,Personal communication,Marine,LTB
+3162,Fishes,Chaenopsidae,Protemblemaria,punctata,Protemblemaria punctata,Warthead Blenny,27.60664,-82.59208,2020-07-31,established,Personal communication,Marine,LTB
+3162,Fishes,Chaenopsidae,Protemblemaria,punctata,Protemblemaria punctata,Warthead Blenny,27.60664,-82.59208,2019-06-21,unknown,Personal communication,Marine,LTB
+3162,Fishes,Chaenopsidae,Protemblemaria,punctata,Protemblemaria punctata,Warthead Blenny,27.60664,-82.59208,2019-12-09,unknown,Personal communication,Marine,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.4847,-82.58106,2023-05-23,,Literature,,LTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.48471,-82.58102,2023-05-23,,Literature,,LTB
+448,Fishes,Cichlidae,Rocio,octofasciata,Rocio octofasciata,Jack Dempsey,27.49383,-82.58277,2024-03-09,,Literature,,LTB
+974,Fishes,Synbranchidae,Monopterus,albus,Monopterus albus,Asian Swamp Eel,27.49639,-82.58194,2020-07-16,,Literature,,LTB
+448,Fishes,Cichlidae,Rocio,octofasciata,Rocio octofasciata,Jack Dempsey,27.50873,-82.58238,2015-09-05,,Literature,,LTB
+3162,Fishes,Chaenopsidae,Protemblemaria,punctata,Protemblemaria punctata,Warthead Blenny,27.6076,-82.58876,2021-01-26,unknown,Personal communication,Marine,LTB
+868,Fishes,Poeciliidae,Xiphophorus,sp.,Xiphophorus sp.,platyfish,27.76769,-82.58588,2019-02-19,,Literature,,MTB
+869,Fishes,Poeciliidae,Xiphophorus,hellerii,Xiphophorus hellerii,Green Swordtail,27.77726,-82.58363,2017-07-05,,Literature,,MTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.8285,-82.5889,2001-09-17,established,Personal communication,Marine,MTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.6341,-82.5898,2001-12-12,established,Personal communication,Marine,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.7806,-82.6011,2001-09-17,established,Personal communication,Marine,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.8119,-82.599,2015-10-10,established,Literature,Freshwater,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.81191,-82.59887,2018-11-08,established,Literature,Freshwater,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.812,-82.5991,2015-10-31,established,Literature,Freshwater,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.81486,-82.60743,2019-04-30,established,Literature,Freshwater,MTB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.83426,-82.60898,2018-09-01,established,Literature,Freshwater,MTB
+843,Fishes,Poeciliidae,Belonesox,belizanus,Belonesox belizanus,Pike Killifish,27.84768,-82.60731,2019-03-22,,Literature,,OTB
+1261,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Red-eared Slider,27.84808,-82.60724,2018-02-24,established,Literature,Freshwater,OTB
+486,Fishes,Clariidae,Clarias,batrachus,Clarias batrachus,Walking Catfish,27.5777,-82.58091,2021-08-28,,Literature,,LTB
+2954,Plants,Onagraceae,Ludwigia,peruviana,Ludwigia peruviana,Peruvian primrose-willow,27.58437,-82.58083,2019-04-18,established,Literature,Freshwater,LTB
+843,Fishes,Poeciliidae,Belonesox,belizanus,Belonesox belizanus,Pike Killifish,27.60245,-82.57213,2019-02-19,,Literature,,LTB
+2740,Fishes,Synbranchidae,Monopterus,sp.,Monopterus sp.,jowled swamp eels,27.63174,-82.57604,2019-02-19,,Literature,,LTB
+3162,Fishes,Chaenopsidae,Protemblemaria,punctata,Protemblemaria punctata,Warthead Blenny,27.63693,-82.57642,2017-01-04,unknown,Specimen,Marine,LTB
+3162,Fishes,Chaenopsidae,Protemblemaria,punctata,Protemblemaria punctata,Warthead Blenny,27.6389,-82.56305,2021-08-17,unknown,Personal communication,Marine,LTB
+448,Fishes,Cichlidae,Rocio,octofasciata,Rocio octofasciata,Jack Dempsey,27.69893,-82.57572,2017-12-27,,Literature,,MTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.8088,-82.5728,2001-09-17,established,Personal communication,Marine,MTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.8093,-82.5744,2001-09-17,established,Personal communication,Marine,MTB
+443,Fishes,Cichlidae,Herichthys,cyanoguttatus,Herichthys cyanoguttatus,Rio Grande Cichlid,27.87156,-82.61073,2011-06-24,unknown,Specimen,Freshwater,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,28.01262,-82.60592,2018-09-03,established,Literature,Freshwater,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.57128,-82.5474,2014-03-20,unknown,Specimen,Freshwater,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.57248,-82.54782,2017-07-21,unknown,Specimen,Freshwater,LTB
+974,Fishes,Synbranchidae,Monopterus,albus,Monopterus albus,Asian Swamp Eel,27.58889,-82.54111,2011-11-30,established,Literature,Freshwater,LTB
+843,Fishes,Poeciliidae,Belonesox,belizanus,Belonesox belizanus,Pike Killifish,27.58974,-82.54922,2024-05-05,,Literature,,LTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.59004,-82.5477,2023-03-07,,Literature,,LTB
+872,Fishes,Poeciliidae,Xiphophorus,maculatus,Xiphophorus maculatus,Southern Platyfish,27.59322,-82.55227,2019-03-16,,Literature,,LTB
+338,Fishes,Callichthyidae,Hoplosternum,littorale,Hoplosternum littorale,Brown Hoplo,27.59348,-82.55238,2021-06-17,,Literature,,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.60004,-82.55167,2019-01-03,established,Literature,Freshwater,LTB
+2740,Fishes,Synbranchidae,Monopterus,sp.,Monopterus sp.,jowled swamp eels,27.61133,-82.54362,2024-11-05,,Literature,,LTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.61594,-82.53914,2021-06-09,,Literature,,LTB
+843,Fishes,Poeciliidae,Belonesox,belizanus,Belonesox belizanus,Pike Killifish,27.64547,-82.53677,2023-05-05,established,Specimen,Freshwater,MTB
+296,Plants,Pteridaceae,Ceratopteris,thalictroides,Ceratopteris thalictroides,watersprite,27.65655,-82.50938,2019-01-12,,Literature,,MTB
+843,Fishes,Poeciliidae,Belonesox,belizanus,Belonesox belizanus,Pike Killifish,27.66562,-82.5541,2017-07-05,,Literature,,MTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.6987,-82.5472,2001-12-12,established,Personal communication,Marine,MTB
+869,Fishes,Poeciliidae,Xiphophorus,hellerii,Xiphophorus hellerii,Green Swordtail,27.70927,-82.51764,2019-02-19,,Literature,,MTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.54433,-82.50739,2019-02-05,established,Literature,Freshwater,LTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.75873,-82.50594,2021-06-01,,Literature,,MTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.91618,-82.505,2019-07-15,,Literature,,HB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.50485,-82.55844,2021-08-20,unknown,NAS sighting report,Marine,LTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,27.6,-82.56,2012-03-08,unknown,Specimen,Freshwater,LTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.6492,-82.5593,2001-12-12,established,Personal communication,Marine,MTB
+448,Fishes,Cichlidae,Rocio,octofasciata,Rocio octofasciata,Jack Dempsey,27.74371,-82.52084,2017-12-27,,Literature,,MTB
+2740,Fishes,Synbranchidae,Monopterus,sp.,Monopterus sp.,jowled swamp eels,27.77007,-82.52208,2024-09-19,,Literature,,MTB
+486,Fishes,Clariidae,Clarias,batrachus,Clarias batrachus,Walking Catfish,27.78447,-82.53933,2017-12-27,,Literature,,MTB
+448,Fishes,Cichlidae,Rocio,octofasciata,Rocio octofasciata,Jack Dempsey,27.78524,-82.54883,2024-09-19,,Literature,,MTB
+296,Plants,Pteridaceae,Ceratopteris,thalictroides,Ceratopteris thalictroides,watersprite,27.85772,-82.52617,2023-01-14,,Literature,,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.86068,-82.52271,2019-12-23,,Literature,,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.86215,-82.51897,2019-02-24,established,Literature,Freshwater,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.87107,-82.52013,2018-08-13,unknown,Specimen,Freshwater,OTB
+3125,Plants,Asteraceae,Enydra,fluctuans,Enydra fluctuans,buffalo spinach,27.87262,-82.5185,2000-04-07,extirpated,Specimen,Freshwater,OTB
+1086,Reptiles,Varanidae,Varanus,salvator,Varanus salvator,Common Water Monitor,27.87923,-82.51761,2016-04-26,unknown,Literature,,OTB
+1086,Reptiles,Varanidae,Varanus,salvator,Varanus salvator,Common Water Monitor,27.87927,-82.51857,2016-04-21,unknown,Literature,,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.88604,-82.5201,2018-11-04,unknown,Specimen,Freshwater,OTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.888,-82.552,2009-01-05,established,Personal communication,Marine,OTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.89409,-82.53978,2021-12-05,,Literature,,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.90072,-82.51073,2023-10-06,,NAS sighting report,Freshwater,OTB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.9051,-82.52856,2018-10-10,established,Literature,Freshwater,OTB
+448,Fishes,Cichlidae,Rocio,octofasciata,Rocio octofasciata,Jack Dempsey,27.91785,-82.55225,2024-08-18,,Literature,,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.931,-82.52016,2015-07-21,established,Literature,Freshwater,OTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.93317,-82.52065,2019-12-28,,Literature,,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.93324,-82.52705,2019-12-21,,Literature,,OTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.93473,-82.51758,2018-12-22,,Literature,,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.94233,-82.52042,2020-04-09,,Literature,,OTB
+963,Fishes,Scorpaenidae,Pterois,volitans/miles,Pterois volitans/miles,lionfish,27.95016,-82.54701,2013-10-17,established,Personal communication,Marine,OTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.9619,-82.54704,2019-12-27,,Literature,,OTB
+61,Amphibians,Eleutherodactylidae,Eleutherodactylus,planirostris,Eleutherodactylus planirostris,Greenhouse Frog,27.88176,-82.84155,2019-01-21,established,Literature,Freshwater,LTB
+1261,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Red-eared Slider,27.8824,-82.8412,2019-01-21,established,Literature,Freshwater,LTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.96637,-82.72146,2015-04-11,established,Personal communication,Freshwater,OTB
+2269,Plants,Nymphaeaceae,Nymphaea,nouchali,Nymphaea nouchali,blue lotus,27.97248,-82.7149,2020-06-02,established,Literature,Freshwater,OTB
+1086,Reptiles,Varanidae,Varanus,salvator,Varanus salvator,Common Water Monitor,27.91062,-82.70722,2019-11-06,unknown,Literature,,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.96844,-82.70319,2020-04-19,,Literature,,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.96845,-82.70309,2020-04-19,,Literature,,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.90073,-82.67859,2019-06-15,established,NAS sighting report,Freshwater-Brackish,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.905,-82.67523,2018-05-14,established,Literature,Freshwater,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.9051,-82.67527,2018-05-14,established,Literature,Freshwater,OTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.90569,-82.67094,2019-08-11,established,Literature,Freshwater,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.97239,-82.69714,2021-04-13,,Literature,,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2008-10-09,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2008-10-09,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2015-09-21,established,Literature,Freshwater,OTB
+1089,Mammals,Myocastoridae,Myocastor,coypus,Myocastor coypus,nutria,27.95353,-82.73388,2021-10-06,unknown,Literature,,OTB
+1089,Mammals,Myocastoridae,Myocastor,coypus,Myocastor coypus,nutria,27.95364,-82.7339,2021-07-25,unknown,Literature,,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2016-08-23,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2001-05-17,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2005-05-18,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2012-09-24,established,Literature,Freshwater,OTB
+235,Plants,Haloragaceae,Myriophyllum,aquaticum,Myriophyllum aquaticum,parrot feather,27.98289,-82.69795,2003-05-21,established,Literature,Freshwater,OTB
+235,Plants,Haloragaceae,Myriophyllum,aquaticum,Myriophyllum aquaticum,parrot feather,27.98289,-82.69795,2005-05-18,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2002-05-13,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2006-11-09,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2009-10-13,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2013-06-25,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2014-06-11,established,Literature,Freshwater,OTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.98289,-82.69795,2017-06-09,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2003-05-21,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2010-10-28,established,Literature,Freshwater,OTB
+234,Plants,Convolvulaceae,Ipomoea,aquatica,Ipomoea aquatica,water spinach,27.98289,-82.69795,2000-05-10,unknown,Literature,Freshwater,OTB
+235,Plants,Haloragaceae,Myriophyllum,aquaticum,Myriophyllum aquaticum,parrot feather,27.98289,-82.69795,2004-05-24,established,Literature,Freshwater,OTB
+235,Plants,Haloragaceae,Myriophyllum,aquaticum,Myriophyllum aquaticum,parrot feather,27.98289,-82.69795,2002-05-13,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2016-08-23,established,Literature,Freshwater,OTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.98289,-82.69795,2012-09-24,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2009-10-13,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2010-10-28,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2013-06-25,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2014-06-11,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2011-11-03,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2007-11-14,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2008-10-09,established,Literature,Freshwater,OTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.98289,-82.69795,2013-06-25,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2003-05-21,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2015-09-21,established,Literature,Freshwater,OTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.98289,-82.69795,2014-06-11,established,Literature,Freshwater,OTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.98289,-82.69795,2014-06-11,established,Literature,Freshwater,OTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.98289,-82.69795,2012-09-24,established,Literature,Freshwater,OTB
+2997,Plants,Cyperaceae,Cyperus,papyrus,Cyperus papyrus,papyrus,27.98289,-82.69795,2014-06-11,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2014-06-11,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2013-06-25,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2002-05-13,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2006-11-09,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2011-11-03,established,Literature,Freshwater,OTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.98289,-82.69795,2003-05-21,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2002-05-13,established,Literature,Freshwater,OTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.98289,-82.69795,2012-09-24,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2004-05-24,established,Literature,Freshwater,OTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.98289,-82.69795,2011-11-03,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2001-05-17,established,Literature,Freshwater,OTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.98289,-82.69795,2010-10-28,established,Literature,Freshwater,OTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.98289,-82.69795,2015-09-21,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2017-06-09,established,Literature,Freshwater,OTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.98289,-82.69795,2017-06-09,established,Literature,Freshwater,OTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.98289,-82.69795,2016-08-23,established,Literature,Freshwater,OTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.98289,-82.69795,2015-09-21,established,Literature,Freshwater,OTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.98289,-82.69795,2004-05-24,established,Literature,Freshwater,OTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.98289,-82.69795,2002-05-13,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2000-05-10,established,Literature,Freshwater,OTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,27.98289,-82.69795,2016-08-23,established,Literature,Freshwater,OTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.98289,-82.69795,2005-05-18,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2015-09-21,established,Literature,Freshwater,OTB
+225,Plants,Acanthaceae,Hygrophila,polysperma,Hygrophila polysperma,Indian swampweed,27.98289,-82.69795,2000-05-10,unknown,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2007-11-14,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2012-09-24,established,Literature,Freshwater,OTB
+297,Plants,Salviniaceae,Salvinia,minima,Salvinia minima,water spangles,27.98289,-82.69795,2013-06-25,established,Literature,Freshwater,OTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.98289,-82.69795,2000-05-10,established,Literature,Freshwater,OTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.98289,-82.69795,2004-05-24,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2009-10-13,established,Literature,Freshwater,OTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.98289,-82.69795,2002-05-13,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2017-06-09,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2016-08-23,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2005-05-18,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2012-09-24,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2010-10-28,established,Literature,Freshwater,OTB
+2819,Plants,Cyperaceae,Cyperus,blepharoleptos,Cyperus blepharoleptos,Cuban bulrush,27.98289,-82.69795,2013-06-25,established,Literature,Freshwater,OTB
+2819,Plants,Cyperaceae,Cyperus,blepharoleptos,Cyperus blepharoleptos,Cuban bulrush,27.98289,-82.69795,2014-06-11,established,Literature,Freshwater,OTB
+2819,Plants,Cyperaceae,Cyperus,blepharoleptos,Cyperus blepharoleptos,Cuban bulrush,27.98289,-82.69795,2016-08-23,established,Literature,Freshwater,OTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.98289,-82.69795,2016-08-23,established,Literature,Freshwater,OTB
+1099,Plants,Araceae,Pistia,stratiotes,Pistia stratiotes,water lettuce,27.98289,-82.69795,2005-05-18,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2011-11-03,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2004-05-24,established,Literature,Freshwater,OTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.98289,-82.69795,2011-11-03,established,Literature,Freshwater,OTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.98289,-82.69795,2001-05-17,established,Literature,Freshwater,OTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.98289,-82.69795,2015-09-21,established,Literature,Freshwater,OTB
+2942,Plants,Hydrocharitaceae,Hydrilla,verticillata,Hydrilla verticillata,whorled hydrilla,27.98289,-82.69795,2013-06-25,established,Literature,Freshwater,OTB
+2995,Plants,Marsileaceae,Marsilea,sp.,Marsilea sp.,pepperwort,27.98289,-82.69795,2013-06-25,established,Literature,Freshwater,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.98289,-82.69795,2003-05-21,established,Literature,Freshwater,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.9841,-82.69554,2023-05-05,established,Specimen,Freshwater,OTB
+486,Fishes,Clariidae,Clarias,batrachus,Clarias batrachus,Walking Catfish,27.9841,-82.69554,2023-05-05,established,Specimen,Freshwater,OTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.9841,-82.69554,2023-05-05,established,Specimen,Freshwater,OTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.9841,-82.69554,2023-05-05,established,Specimen,Freshwater,OTB
+48,Amphibians,Bufonidae,Rhinella,marina,Rhinella marina,Cane Toad,27.9967,-82.6919,2016-07-16,established,Literature,Freshwater,OTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,28.0035,-82.6718,2001-09-17,established,Personal communication,Marine,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,28.00553,-82.69135,2020-09-29,,Literature,,OTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,28.020469,-82.683105,2000-08-08,established,Personal communication,Marine,OTB
+2587,Mammals,Caviidae,Hydrochoerus,hydrochaeris,Hydrochoerus hydrochaeris,capybara,28.0325,-82.68747,2022-07-07,,Literature,,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2004-05-24,established,Literature,Freshwater,OTB
+227,Plants,Amaranthaceae,Alternanthera,philoxeroides,Alternanthera philoxeroides,alligatorweed,27.98289,-82.69795,2017-06-09,established,Literature,Freshwater,OTB
+48,Amphibians,Bufonidae,Rhinella,marina,Rhinella marina,Cane Toad,28.02142,-82.69944,2016-07-05,established,Literature,Freshwater,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.87791,-82.63701,2020-08-18,,Literature,,OTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.87799,-82.64932,2018-04-25,,Literature,,OTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.87815,-82.64643,2022-11-02,,Literature,,OTB
+2788,Fishes,Cichlidae,Oreochromis,sp.,Oreochromis sp.,tilapia,27.87817,-82.63348,2020-08-15,,Literature,,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,27.8823,-82.65038,2018-09-18,established,Literature,Freshwater,OTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.903418,-82.64637,2002-10-26,established,Personal communication,Marine,OTB
+443,Fishes,Cichlidae,Herichthys,cyanoguttatus,Herichthys cyanoguttatus,Rio Grande Cichlid,27.94967,-82.63161,2018-08-03,,Literature,,OTB
+3270,Fishes,Cichlidae,Cichlasoma,dimerus,Cichlasoma dimerus,Chanchita,27.9505,-82.64594,2024-10-23,,Literature,,OTB
+2587,Mammals,Caviidae,Hydrochoerus,hydrochaeris,Hydrochoerus hydrochaeris,capybara,28.0129,-82.63356,2015-09-28,,Literature,,OTB
+2954,Plants,Onagraceae,Ludwigia,peruviana,Ludwigia peruviana,Peruvian primrose-willow,28.01381,-82.6351,2019-06-16,established,Literature,Freshwater,OTB
+477,Fishes,Cichlidae,Sarotherodon,melanotheron,Sarotherodon melanotheron,Blackchin Tilapia,27.88839,-82.66,2018-01-10,established,Literature,Freshwater,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.8906,-82.66422,2022-07-28,,Literature,,OTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.90414,-82.66452,2018-06-04,established,Literature,Freshwater,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,27.90478,-82.66356,2018-07-12,,Literature,,OTB
+1130,Plants,Pontederiaceae,Eichhornia,crassipes,Eichhornia crassipes,common water-hyacinth,27.94551,-82.65478,2011-09-03,,Literature,,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,28.0205,-82.6562,2005-09-07,established,Literature,Brackish,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,28.0205,-82.6562,2004-10-27,established,Literature,Brackish,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,28.0205,-82.6562,2006-11-09,established,Literature,Brackish,OTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,27.87182,-82.62335,2018-12-23,established,Literature,Freshwater,OTB
+110,Mollusks,Mytilidae,Perna,viridis,Perna viridis,green mussel,27.9633,-82.6147,2001-09-17,established,Personal communication,Marine,OTB
+1259,Reptiles,Emydidae,Trachemys,scripta,Trachemys scripta,Pond Slider,28.00603,-82.61128,2018-06-05,established,Literature,Freshwater,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,28.02078,-82.61119,2018-10-13,established,Literature,Freshwater,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,28.02392,-82.61544,2020-05-11,,Literature,,OTB
+514,Fishes,Cyprinidae,Ctenopharyngodon,idella,Ctenopharyngodon idella,Grass Carp,28.02624,-82.61956,2023-10-07,,Literature,,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,28.02895,-82.62115,2018-10-11,established,Literature,Freshwater,OTB
+2587,Mammals,Caviidae,Hydrochoerus,hydrochaeris,Hydrochoerus hydrochaeris,capybara,28.02356,-82.66138,2023-06-09,,Literature,,OTB
+770,Fishes,Loricariidae,Pterygoplichthys,sp.,Pterygoplichthys sp.,sailfin armored catfish,28.02612,-82.66171,2019-02-18,established,Literature,Freshwater,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,28.02641,-82.65882,2021-10-12,,Literature,,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,28.02657,-82.65929,2024-11-14,,Literature,,OTB
+453,Fishes,Cichlidae,Cichlasoma,urophthalma,Cichlasoma urophthalma,Mayan Cichlid,28.02672,-82.65928,2021-10-12,,Literature,,OTB
+2587,Mammals,Caviidae,Hydrochoerus,hydrochaeris,Hydrochoerus hydrochaeris,capybara,28.02843,-82.65817,2017-10-02,,Literature,,OTB
+2587,Mammals,Caviidae,Hydrochoerus,hydrochaeris,Hydrochoerus hydrochaeris,capybara,28.03131,-82.65701,2017-11-06,,Literature,,OTB
+2633,Mollusks,Ampullariidae,Pomacea,maculata,Pomacea maculata,giant applesnail,28.03603,-82.65428,2010-09-07,established,Literature,Freshwater,OTB
+2587,Mammals,Caviidae,Hydrochoerus,hydrochaeris,Hydrochoerus hydrochaeris,capybara,28.01712,-82.64462,2016-10-17,,Literature,,OTB
+2587,Mammals,Caviidae,Hydrochoerus,hydrochaeris,Hydrochoerus hydrochaeris,capybara,28.01741,-82.6457,2022-05-22,,Literature,,OTB
+2587,Mammals,Caviidae,Hydrochoerus,hydrochaeris,Hydrochoerus hydrochaeris,capybara,28.01853,-82.64437,2017-04-24,,Literature,,OTB
+2587,Mammals,Caviidae,Hydrochoerus,hydrochaeris,Hydrochoerus hydrochaeris,capybara,28.0277,-82.63854,2017-06-22,,Literature,,OTB
+2587,Mammals,Caviidae,Hydrochoerus,hydrochaeris,Hydrochoerus hydrochaeris,capybara,28.03436,-82.68887,2022-07-07,,Literature,,OTB
+463,Fishes,Cichlidae,Oreochromis,aureus,Oreochromis aureus,Blue Tilapia,28.0369,-82.6791,2015-02-27,unknown,Literature,Freshwater,OTB
+57,Amphibians,Hylidae,Osteopilus,septentrionalis,Osteopilus septentrionalis,Cuban Treefrog,28.0437,-82.69727,2017-07-24,unknown,Specimen,Freshwater,OTB
+3270,Fishes,Cichlidae,Cichlasoma,dimerus,Cichlasoma dimerus,Chanchita,28.04579,-82.67693,2018-08-31,established,Specimen,Freshwater,OTB
+1086,Reptiles,Varanidae,Varanus,salvator,Varanus salvator,Common Water Monitor,27.99587,-82.58355,2014-07-29,unknown,Literature,,OTB
